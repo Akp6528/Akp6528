@@ -14,6 +14,6 @@
 - :telescope: I'm currently working on Web Development
 - :hourglass_flowing_sand: Experimenting with Codes
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :zap: Fun fact: To be an IAF Pilot!!!
+- :zap:  Fact : To be an IAF Pilot!!!
 - :mailbox: Reach out to me at my LinkedIn: 
 [![Linkedin Badge](https://img.shields.io/badge/-ashwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwani)](https://www.linkedin.com/in/ashwani-pandey-b96344197/) 
