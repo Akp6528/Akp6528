@@ -3,7 +3,7 @@
   <br>👋 Hi, I'm Ashwani Pandey.<br>
   <br> I'm a Frontend Web Developer ... <br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
  </abc>
 </h3> 
    
